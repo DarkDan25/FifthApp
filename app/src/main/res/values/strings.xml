@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FifthApp</string>
+    <string-array name="fruandveg">
+        <item>Яблоки</item>
+        <item>Мандарины</item>
+        <item>Груши</item>
+        <item>Томаты</item>
+        <item>Огурцы</item>
+        <item>Морковь</item>
+    </string-array>
+
+    <string-array name="apples">
+        <item>Гренни Смит</item>
+        <item>Симеренко</item>
+        <item>Гала</item>
+        <item>Эконом</item>
+    </string-array>
+
+    <string-array name="cucumbers">
+        <item>Длинноплодный</item>
+        <item>Короткоплодный</item>
+        <item>Гладкий</item>
+        <item>Длинноплодный</item>
+        <item>Короткоплодный</item>
+        <item>Гладкий</item>
+        <item>Длинноплодный</item>
+        <item>Короткоплодный</item>
+        <item>Гладкий</item>
+    </string-array>
+
+    <string-array name="carrots">
+        <item>Эконом</item>
+        <item>Мытая</item>
+        <item>Морковь в упаковке (мытая)</item>
+    </string-array>
+</resources>
